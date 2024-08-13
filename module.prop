@@ -1,0 +1,6 @@
+id=SkiaGL-Enabler
+name=OpenGL Skia Renderer
+version=v1.0
+versionCode=1
+author=kolassrexon
+description=Sets OpenGL (Skia) as the default renderer
